@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![GitHub Roast 评分徽章](https://githubroast.icu/api/badge/Jacob-YLB)](https://githubroast.icu/u/Jacob-YLB)
 <!--
 **RubyYoung/RubyYoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
