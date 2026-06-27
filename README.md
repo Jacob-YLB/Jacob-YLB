@@ -1,6 +1,8 @@
 ## Hi there 👋
 [![GitHub Roast 评分徽章](https://githubroast.icu/api/badge/Jacob-YLB)](https://githubroast.icu/u/Jacob-YLB)
 [![GitHub Roast](https://githubroast.icu/api/card/Jacob-YLB)](https://githubroast.icu/u/Jacob-YLB)
+![Jacob-YLB's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacob-YLB&show_icons=true&theme=transparent)
+
 <!--
 **RubyYoung/RubyYoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
